@@ -13,7 +13,12 @@ In Mousie Housie, you take control of a small mouse navigating through a house w
 - Scene Management: Main menu system allowing level transitions
 
 ## Screenshots
-![Снимок экрана 2025-02-20 201324](https://github.com/user-attachments/assets/0a9fc2ff-642e-4221-a3b0-74606b075e78)
+![main menu](https://github.com/user-attachments/assets/00f8eeac-7cfb-4a81-b895-abe46fad6bd3)
+![living room](https://github.com/user-attachments/assets/f9c60f0b-570d-4889-a6ed-13de005d76ca)
+![hall_bathroom](https://github.com/user-attachments/assets/25386cab-6094-4e66-b411-0d834069c150)
+![bedroom](https://github.com/user-attachments/assets/397bfdbb-9684-4525-bf8b-b30cbb1c349d)
+![game won scene](https://github.com/user-attachments/assets/ecd14285-95c3-4b65-8a84-1a9e9a9a5222)
+![game lose scene](https://github.com/user-attachments/assets/286b22f6-8ff9-4320-8313-6e81f18837f9)
 
 ## Controls
 - WASD - Movement
