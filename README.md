@@ -20,6 +20,9 @@ In Mousie Housie, you take control of a small mouse navigating through a house w
 ![game won scene](https://github.com/user-attachments/assets/ecd14285-95c3-4b65-8a84-1a9e9a9a5222)
 ![game lose scene](https://github.com/user-attachments/assets/286b22f6-8ff9-4320-8313-6e81f18837f9)
 
+## Video Demo
+https://youtu.be/jD5MHOEwCTM?feature=shared
+
 ## Controls
 - WASD - Movement
 - Spacebar - Jump
