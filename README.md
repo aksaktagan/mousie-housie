@@ -12,6 +12,9 @@ In Mousie Housie, you take control of a small mouse navigating through a house w
 - UI Elements: TextMeshPro for in-game text updates
 - Scene Management: Main menu system allowing level transitions
 
+## Screenshots
+![Снимок экрана 2025-02-20 201324](https://github.com/user-attachments/assets/0a9fc2ff-642e-4221-a3b0-74606b075e78)
+
 ## Controls
 - WASD - Movement
 - Spacebar - Jump
